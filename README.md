@@ -6,6 +6,7 @@ This is my Portfolio project
 ## Environment
 Built with:
 - Vue 3 with Vite
+- Tailwind CSS
 
 ## Features
 

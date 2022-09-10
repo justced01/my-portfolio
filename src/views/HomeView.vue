@@ -1,7 +1,7 @@
 <template>
   <div class="">
     <NavComponent />
-    <main class="mt-20">
+    <main class="md:mt-20 sm:pt-20">
       <div id="intro" class="h-screen">
         this is intro
       </div>

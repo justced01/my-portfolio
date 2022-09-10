@@ -15,6 +15,11 @@ module.exports = {
       'secondary': '#73cca8',
       'body': '#242A37',
     },
+    screens: {
+      'sm': {'max': '425px'},
+      'md': '768px',
+      'lg': '1024px',
+    },
     extend: {},
   },
   plugins: [],
